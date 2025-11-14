@@ -1,6 +1,4 @@
-# PhishShieldAI - Full package (BERT-ready) with demo model
-
-## Quick start (local)
+# PhishShieldAI 
 
 1. Create virtual env and install requirements:
    ```bash
@@ -27,6 +25,3 @@
 
 5. Test endpoints at http://127.0.0.1:8000/docs
 
-## Notes
-- The repo is BERT-ready; the demo model allows you to run everything locally without large downloads.
-- After you train BERT, the API will automatically use it.
