@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+joblib
+requests
+beautifulsoup4
+transformers>=4.30.0
+datasets
+torch
